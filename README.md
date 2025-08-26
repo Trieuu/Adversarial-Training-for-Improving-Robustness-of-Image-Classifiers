@@ -12,7 +12,8 @@ The repository provides code for:
 ---
 
 ## 📂 Repository Structure
-<img width="1480" height="1542" alt="image" src="https://github.com/user-attachments/assets/7ea6208d-16cb-46a5-b938-a9b758b4434d" />
+<img width="1480" height="1398" alt="image" src="https://github.com/user-attachments/assets/c60f21eb-bf26-4f81-b137-3436ce4852b0" />
+
 
 
 ## ⚙️ Environment Setup
