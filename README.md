@@ -7,7 +7,8 @@ The repository provides code for:
 - **Baseline training** (clean images only)  
 - **Adversarial training** (mix of clean and FGSM adversarial samples)  
 - **Evaluation** on clean and adversarial test sets (Top-1 and Top-5 accuracy)  
-- **Visualization** of dataset samples, preprocessing pipeline, and adversarial examples  
+- **Visualization** of dataset samples, preprocessing pipeline, and adversarial examples
+- **In detail report** about the training and experiment process
 
 ---
 
