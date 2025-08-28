@@ -12,7 +12,7 @@ def fgsm_attack(model, images, targets, eps=2/255.0):
     """
     Perform FGSM in *normalized* space.
     Inputs are already normalized by dataset transforms.
-    We clamp per-channel to the valid normalized range of [0,1] after Normalize.
+    Clamp to the image’s own min/max in normalized space
     """
     images = images.detach().clone().requires_grad_(True)
     logits = model(images)
